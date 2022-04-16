@@ -14,7 +14,7 @@ The results are displayed below in different stages
 
 ---
 
-Data Analysis of the Diabetes Data
+## Data Analysis of the Diabetes Data
 
 <div>
  <img src="https://github.com/ovokpus/Azure-Machine-Learning-Project/blob/main/images/diabetes-experiment-widget-log-analysis.jpg">
@@ -22,8 +22,14 @@ Data Analysis of the Diabetes Data
 
 ---
 
-Model Training with parameters
+## Model Training with parameters
 
-<img src=https://github.com/ovokpus/Azure-Machine-Learning-Project/blob/main/images/diabetes-experiment-widget-log-analysis.jpg>
+<img src=https://github.com/ovokpus/Azure-Machine-Learning-Project/blob/main/images/scipt-run-widget-diabetes-clsssification.jpg>
+
+---
+
+## Model Training
+
+<img src=https://github.com/ovokpus/Azure-Machine-Learning-Project/blob/main/images/script-run-diabetes-training-parameterized.jpg>
 
 ---
