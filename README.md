@@ -24,4 +24,6 @@ Data Analysis of the Diabetes Data
 
 Model Training with parameters
 
-https://github.com/ovokpus/Azure-Machine-Learning-Project/blob/main/images/diabetes-experiment-widget-log-analysis.jpg
+<img src=https://github.com/ovokpus/Azure-Machine-Learning-Project/blob/main/images/diabetes-experiment-widget-log-analysis.jpg>
+
+---
